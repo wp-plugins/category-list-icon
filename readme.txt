@@ -1,10 +1,10 @@
 === Category List Icon ===
 Contributors: hasanrang05
-Donate link: 
+Donate link: http://kentothemes.com
 Tags: Category icon, Category list image, category icons
 Requires at least: 3.8
-Tested up to: 3.8
-Stable tag: 1.2
+Tested up to: 3.8.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
