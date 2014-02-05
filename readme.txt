@@ -41,9 +41,9 @@ Plugin Features
  
 
 <strong>How to display category icon ?</strong><br /> 
-To display tag icon you must save an .png image exactly same as image name of category slug to <strong>"cat-images"</strong> folder or directory on this plugin.
+To display category icon you must save an .png image exactly same as image name of category slug to <strong>"cat-images"</strong> folder or directory on this plugin.
 
-for example if you want to display category icon for "facebook" on your site then you have to save an image  "facebook.png" to <strong>"cat-images"</strong>(inside this plugin, folder alredy exist) folder or directory then it will automatically added before tag name on single post tag list.
+for example if you want to display category icon for "facebook" on your site then you have to save an image  "facebook.png" to <strong>"cat-images"</strong>(inside this plugin, folder alredy exist) folder or directory then it will automatically added before tag name on category list.
 
 
 == Screenshots ==
