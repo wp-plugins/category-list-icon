@@ -1,5 +1,5 @@
 === Category List Icon ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: http://kentothemes.com
 Tags: Category icon, Category list image, category icons
 Requires at least: 3.8
